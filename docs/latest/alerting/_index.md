@@ -2,7 +2,7 @@
 aliases:
   - /docs/grafana/latest/alerting/
   - /docs/grafana/latest/alerting/unified-alerting/alerting/
-title: Alerting
+title: Alerting v1.0.1 test
 weight: 114
 canonical: "https://grafana.com/docs/grafana/latest/alerting/"
 ---
