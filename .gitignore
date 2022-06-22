@@ -1,0 +1,43 @@
+# Hugo default output directory
+/public
+
+
+# VScode and extensions
+/.vscrof
+/.vscode
+
+## OS Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OSX
+.DS_Store
+docs/.DS_Store
+
+node_modules
+build
+dist/*
+dist-assets
+dist-docs
+dist-static
+
+awsconfig
+.idea
+.terraform
+*.tfstate.backup
+data/docs/grafana/latest/menu.yaml
+scripts/install-misspell.sh
+scripts/bin
+static/api
+resources/_gen/assets/scss/scss
+resources/_gen/assets/css/static
+.netlify
+.env
+.password
+config/_default/module.json
+data/docs/versions.json
+.htpasswd
+build.conf
