@@ -2,12 +2,12 @@
 aliases:
   - /docs/grafana/latest/alerting/
   - /docs/grafana/latest/alerting/unified-alerting/alerting/
-title: Alerting v1.0.1 test
+title: Alerting v1.0.2 test
 weight: 114
 canonical: "https://grafana.com/docs/grafana/latest/alerting/"
 ---
 
-# Grafana Alerting v1.0.1
+# Grafana Alerting v1.0.2
 
 Grafana Alerting allows you to learn about problems in your systems moments after they occur. Robust and actionable alerts help you identify and resolve issues quickly, minimizing disruption to your services. It centralizes alerting information in a single, searchable view that allows you to:
 
